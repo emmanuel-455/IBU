@@ -31,6 +31,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 If you have any feedback, suggestions, or issues with the website, please feel free to open an issue on GitHub or contact us directly.
 
+## TODO
+
+[ ] Make a UI design
+
 ---
 
 Happy coding! 🚀
